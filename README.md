@@ -134,7 +134,7 @@ The website is fully responsive and optimized for:
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 📞 Contact Information
+## 📞 fake  Contact Information 
 
 **Sweet Dreams Bakery**
 - Phone: (555) 123-4567
@@ -160,3 +160,5 @@ This project is for demonstration purposes. Feel free to use and modify for your
 ---
 
 **Made with ❤️ and lots of 🍰**
+---
+if any issue then contacts on this Gmail:- azharshaikh40198@gmail.com
